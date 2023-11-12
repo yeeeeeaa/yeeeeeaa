@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=1nformation-pr0tection&theme=vue-dark)](https://1nformation-pr0tection.tistory.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeeeaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 ![yeeeeeaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeeeaa&show_icons=true&theme=dark)
